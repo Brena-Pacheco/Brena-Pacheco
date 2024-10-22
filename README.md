@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brena-Pacheco
 - 👀 Estou interessada em análise de sistemas, RPA, automação e programação Python, cibersegurança e desenvolvimento de soluções digitais.
 - 🌱 Atualmente estou aprendendo inteligência artificial, machine learning e deep learning.
-- 💞️ Estou buscando colaborar em projetos relacionados a automação, RPA e análise de dados.
+- 💞️ Estou buscando colaborar em projetos relacionados a automação, RPA, análise de dados e entre outros....
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato curioso: Gosto de projetos desafiadores que me permitem explorar novas soluções e aprender continuamente!
   
